@@ -1,0 +1,6 @@
+cryptography
+lxml
+beautifulsoup4
+psutil
+pillow
+colorama
